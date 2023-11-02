@@ -43,11 +43,13 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-![menu01](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/c4610a2a-a0d1-444e-8f7e-8c7300471332)
- 
+![menu01](https://github.com/yereverluvinunclebert/Penny-Red-VB6-Widget/assets/2788342/e9838f0b-87af-49e4-9878-3fe6d0ac9e5f)
+
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
- 
+
+ ![hong kong 30 cents](https://github.com/yereverluvinunclebert/Penny-Red-VB6-Widget/assets/2788342/6ba7f1be-beac-42f7-b7e6-4a4c5f691643)
+
  I do hope you enjoy using this utility and others. Your own software 
  enhancements and contributions will be gratefully received if you choose to 
  contribute.
@@ -210,6 +212,9 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  With regard to the commercial use of incorporated images, permission and a 
  licence would need to be obtained from the original owner and creator, ie. me.
  
+![two penny blue](https://github.com/yereverluvinunclebert/Penny-Red-VB6-Widget/assets/2788342/4100f2ad-1f9d-4f0e-96f1-fdb2a19b13ed)
 
- 
+
+ ![pennyred-on-desktop](https://github.com/yereverluvinunclebert/Penny-Red-VB6-Widget/assets/2788342/3fae8b74-16b7-4849-9e2e-976ddfc210ed)
+
 
