@@ -1,0 +1,78 @@
+' This is the buglist - fixed at the top and outstanding below.
+
+' remove the .git folder and all .git files - done
+' rename the vbp and vbw files to pennyred.vbp &c - done
+' convert imagelist collection to incorporate only required images - done
+' in code, replace references to globe with stamp and pennyred, direct replacements - done
+' new about page in photoshop - done
+' new one page help in photoshop - done
+' menus - remove references to globe or gauge - done
+' preferences - remove unnecessary controls (greyed out) - done
+' preferences - remove/replace text referring to globe or gauge in the IDE - done
+' tooltips remove/replace text referring to globe or gauge in the IDE
+' delete unwanted PNGs and JPGs from folders - done
+' project properties, change project name - done
+' edit the VBP file and change the exe name - done
+' rename the .RES files to pennyred - done
+' re-attach the .RES file - done
+' 48x48 icons on all visible forms - done
+' 128 x 128 icon created assigned to frmTimer and used as the project main icon  - done
+' add a comboBox for the stamp selection - done
+' add code and variables to store the correct stamp on startup and saving - done
+' add jpg images of the various stamps, to appear on the prefs only implemented, then removed - done
+' add code to select the correct stamp in the prefs on selection and startup - done
+' stamps, all resized - done
+' test on win 10 64bit - study 1st PC - done
+
+' about.txt modified - done
+' help modified, new images and text changed, functionality explained - done
+' remove all the unwanted imagery and icons - done
+' windows startup binary name now replaced with Penny Red - done
+' msgboxes - refer to Panzer Earth now replaced with Penny Red - done
+' replace all references to PzEarth with PennyRed on reading and writing the folder containing the settings.ini file - done
+' replace all references to PzE with PR on reading and writing the global vars to file - done
+' test on win 10 64bit no existing settings file - study 1st PC - done
+' rename cwGlobe.cls with cwStamp.cls - done
+' reduced the width of the about page so it is centred correctly - done
+
+' test on win 7 32bit - study 2nd PC - wip
+' test restart after reboot
+
+' update github by hand
+' determine how to identify github error message during update
+' change menu links
+' change prefs links
+' build new HTML containing valid links
+' CHM built
+' setup2go built
+
+' -oOo-
+
+' Tasks yet to do to complete 0.1.0
+' =================================
+
+' test on win XP 32bit blank install, no RC5 at all
+' test on ReactOS 32bit blank install, no RC5 at all
+
+' document showInTaskbar new option
+' build new setup.exe containing valid links
+' add a debug form and debug commands
+
+' get current monitor? Add code to position the various forms on multiple monitors.
+
+' -oOo-
+
+' Tasks yet to do in later versions.
+' ==================================
+
+' upload the code (no setup.exe) to the VBforums codebank
+
+' lightquick - resurrect
+
+' Deviantart for journal only. Test with rocketdock Part III HTML, create the journal blog using NVU as per the saved DA journal pt II, will be usable elsewhere.
+
+' softpedia
+' fosshub
+
+
+
