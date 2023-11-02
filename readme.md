@@ -12,12 +12,11 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  Functional and gorgeous at the same time. The graphics for the supporting panels are my own, it is all my code with some help from the chaps at VBForums (credits given). 
  This Widget is a moveable widget that you can move anywhere around the desktop as you require.
  
-![panzer-earth-gauge-help-750](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/d9eb592d-f594-4d14-af5c-27c0a827ef1a)
+![pennyredDesktop002](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/16363762-7648-4042-8480-8ee7c5dccd13)
 
  This widget can be increased in size, animation speed can be changed, 
  opacity/transparency may be set as to the users discretion. The widget can 
  also be made to hide for a pre-determined period.
- 
 
  Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to 
  fire up. The first time you run it there will be no assigned function and so it 
@@ -37,7 +36,6 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  
 ![Licence](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/e9a396e7-9ec0-4279-8946-bca584fa664e)
 
-
  It is open source to allow easy configuration, bug-fixing, enhancement and 
  community contribution towards free-and-useful VB6 utilities that can be created
  by anyone. The first step was the creation of this template program to form the 
@@ -45,9 +43,7 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  is new VB6 widgets with more functionality and then hopefully, conversion of 
  each to RADBasic/TwinBasic for future-proofing and 64bit-ness. 
 
-
 ![menu01](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/c4610a2a-a0d1-444e-8f7e-8c7300471332)
-
  
  This utility is one of a set of steampunk and dieselpunk widgets. That you can 
  find here on Deviantart: https://www.deviantart.com/yereverluvinuncleber/gallery
@@ -57,7 +53,6 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  contribute.
 
 ![prefs-general](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/5010e98b-4995-4b4e-ac91-78b4dd5715e9)
-
 
  BUILD: The program runs without any Microsoft plugins.
  
@@ -89,6 +84,9 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
 	Windows 10 Home 64bit on Intel    
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
+
+![empire exhibition](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/fe543705-9380-423c-a2a4-e098eab96cd2)
+
    
  CREDITS:
  
@@ -118,6 +116,9 @@ This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little mo
  
  Harry Whitfield for his quality testing, brain stimulation and being an 
  unwitting source of inspiration. 
+
+![penny black](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/be7d588b-ccba-4a71-b209-9d8027241388)
+
  
  Dependencies:
  
