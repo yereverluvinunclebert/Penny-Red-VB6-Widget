@@ -26,10 +26,9 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  to Windows 11.
 
  ![panzer-earth-gauge-help-750](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/619e92d1-0e8e-4fff-9345-f74211401fed)
-
-
- The Penny Red VB6 widget is Beta-grade software, under development, not yet 
- ready to use on a production system - use at your own risk.
+ 
+ The Penny Red VB6 widget is Beta-grade software, still under minor development, not yet 
+ ready to use on a valuable production system but fine on a test system - as always, use at your own risk.
 
  This version was developed on Windows 7 using 32 bit VisualBasic 6 as a FOSS 
  project creating a WoW64 widget for the desktop. 
@@ -56,6 +55,10 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
 
 ![prefs-general](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/5010e98b-4995-4b4e-ac91-78b4dd5715e9)
 
+ INSTALLATION :
+ 
+ If you are just a casual user of desktop programs then simply download the SETUP.EXE and run it. If you are a developer and you want to make changes to the code then read on.
+ 
  BUILD: The program runs without any Microsoft plugins.
  
  Built using: VB6, MZ-TOOLS 3.0, VBAdvance, CodeHelp Core IDE Extender
