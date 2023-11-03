@@ -3,9 +3,9 @@ The Penny Red VB6 widget is a simple utility displaying a Victorian stamp image 
 
 ![penny red](https://github.com/yereverluvinunclebert/penny-red-VB6/assets/2788342/9d6921c6-ea01-4ca5-97f0-c8bc758e5255)
 
-This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little more than a glorified desktop icon really. Just a selectable image of a Victorian stamp that responds to a double-click to open an application you choose to assign, in my case Thunderbird, the email client.
+This is a simple RC/VB6 widget based upon one of my old Yahoo widgets, little more than a glorified desktop icon really. Just a selectable image of a Victorian stamp that responds to a double-click to open an application you choose to assign, in my case Thunderbird, the email client. A bit of background: The Yahoo widget SDK came with a Photoshop conversion script that could take any image and create a desktop widget within 30 seconds. This meant that you could create eye-candy desktop widgets with ease in just a few clicks. This penny red widget is a VB6 version of one of those, demonstrating the principle of creating such a desktop widget using VB6.
 
- Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way with 100% compatible TwinBasic coupled with support for transparent PNGs via RC/Cairo, VB6 code has an amazing future.
+Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in the guise of 100% compatible TwinBasic, coupled with support for transparent PNGs via Olaf Schmidt's RC/Cairo wrapper, VB6 code has an amazing future.
 
  ![vb6-logo-200](https://github.com/yereverluvinunclebert/Panzer-JustClock-VB6/assets/2788342/7986e544-0b94-4a10-90bb-2d9fb60c294a)
  
