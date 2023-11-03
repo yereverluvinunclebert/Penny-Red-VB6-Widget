@@ -34,17 +34,23 @@
 ' test on win 10 64bit no existing settings file - study 1st PC - done
 ' rename cwGlobe.cls with cwStamp.cls - done
 ' reduced the width of the about page so it is centred correctly - done
+' change menu links - done
+' change prefs links - done
+' determine how to identify github error message during update - does not like more than 100 files in a folder (image folders)
+'                                                                does not like files larger than 25mb (CHMs)
+' update github by hand - done
 
 ' test on win 7 32bit - study 2nd PC - wip
 ' test restart after reboot
 
-' update github by hand
-' determine how to identify github error message during update
-' change menu links
-' change prefs links
+' document uploading by hand
 ' build new HTML containing valid links
 ' CHM built
-' setup2go built
+' CHM link broken, fix
+' upload CHM by hand if too large
+' rebuild CHM with jpgs to keep the size down
+' setup2go build new setup.exe
+' update things learnt
 
 ' -oOo-
 
@@ -55,7 +61,6 @@
 ' test on ReactOS 32bit blank install, no RC5 at all
 
 ' document showInTaskbar new option
-' build new setup.exe containing valid links
 ' add a debug form and debug commands
 
 ' get current monitor? Add code to position the various forms on multiple monitors.
