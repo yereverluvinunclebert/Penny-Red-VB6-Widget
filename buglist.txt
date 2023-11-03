@@ -38,19 +38,20 @@
 ' change prefs links - done
 ' determine how to identify github error message during update - does not like more than 100 files in a folder (image folders)
 '                                                                does not like files larger than 25mb (CHMs)
+' CHM built - done
+' CHM link broken, fix - done
+' test restart after reboot - done
+' build new HTML containing valid links - done
 ' update github by hand - done
 
 ' test on win 7 32bit - study 2nd PC - wip
-' test restart after reboot
 
 ' document uploading by hand
-' build new HTML containing valid links
-' CHM built
-' CHM link broken, fix
-' upload CHM by hand if too large
-' rebuild CHM with jpgs to keep the size down
+
 ' setup2go build new setup.exe
-' update things learnt
+' update things learnt - github errs, error 50003
+
+' inputbox - FCW
 
 ' -oOo-
 
