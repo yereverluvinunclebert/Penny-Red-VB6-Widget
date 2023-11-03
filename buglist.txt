@@ -38,25 +38,28 @@
 ' change prefs links - done
 ' determine how to identify github error message during update - does not like more than 100 files in a folder (image folders)
 '                                                                does not like files larger than 25mb (CHMs)
+' update github by hand - done
 ' CHM built - done
 ' CHM link broken, fix - done
 ' test restart after reboot - done
 ' build new HTML containing valid links - done
-' update github by hand - done
+' setup2go build new setup.exe - done
+' create 32x32x16 icon for setup2go
+' create
+' standard github update - done
 
 ' test on win 7 32bit - study 2nd PC - wip
 
 ' document uploading by hand
 
-' setup2go build new setup.exe
 ' update things learnt - github errs, error 50003
 
 ' inputbox - FCW
 
 ' -oOo-
 
-' Tasks yet to do to complete 0.1.0
-' =================================
+' Tasks yet to do to complete
+' ===========================
 
 ' test on win XP 32bit blank install, no RC5 at all
 ' test on ReactOS 32bit blank install, no RC5 at all
@@ -65,6 +68,7 @@
 ' add a debug form and debug commands
 
 ' get current monitor? Add code to position the various forms on multiple monitors.
+' DPI awareness code from just Clock widget
 
 ' -oOo-
 
