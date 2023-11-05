@@ -33,7 +33,7 @@ WindowsNT4=Yes
 Windows2000=Yes
 WindowsXP=Yes
 LoginAsAdmin=No
-RequiredDiskSpace=50000
+RequiredDiskSpace=58000
 AbortInstallation=Yes
 
 [DIALOGS]
@@ -56,7 +56,7 @@ FinishDialog=Yes
 
 [SPLASH_WINDOW]
 Bitmap_Pathname=E:\vb6\penny red VB6\Resources\images\pennyRedSplash.bmp
-Bitmap_Duration=1
+Bitmap_Duration=2
 
 [SETUP_WINDOW]
 WindowTitle=Setup
@@ -95,7 +95,7 @@ Show_ViewReadme_Checked=Yes
 Show_RunApplication_CheckBox=Yes
 Show_RunApplication_Checked=Yes
 Readme_Pathname=
-Application_Pathname=%AppDir%\Panzer Earth Gauge.exe
+Application_Pathname=%AppDir%\Penny Red.exe
 
 [EXTERNAL_TOOLS]
 RunBeforeInstall=No
@@ -232,7 +232,6 @@ File=%AppDir%\Resources\images\hong kong 30 cents.png,.\Resources\images\hong ko
 File=%AppDir%\Resources\images\housekeeping-Icon-dark.jpg,.\Resources\images\housekeeping-Icon-dark.jpg,17,0,32
 File=%AppDir%\Resources\images\housekeeping-icon-light.jpg,.\Resources\images\housekeeping-icon-light.jpg,17,0,32
 File=%AppDir%\Resources\images\mini-panzergauge-icon.png,.\Resources\images\mini-panzergauge-icon.png,17,0,32
-File=%AppDir%\Resources\images\panzer-earth-gauge-help-750.jpg,.\Resources\images\panzer-earth-gauge-help-750.jpg,17,0,32
 File=%AppDir%\Resources\images\penny black.png,.\Resources\images\penny black.png,17,0,32
 File=%AppDir%\Resources\images\penny red.png,.\Resources\images\penny red.png,17,0,32
 File=%AppDir%\Resources\images\pennyred-icon-dark.jpg,.\Resources\images\pennyred-icon-dark.jpg,17,0,32
@@ -278,6 +277,7 @@ File=%AppDir%\Resources\images\windows-icon-light-600.jpg,.\Resources\images\win
 File=%AppDir%\Resources\images\windows-icon-light-730.jpg,.\Resources\images\windows-icon-light-730.jpg,17,0,32
 File=%AppDir%\Resources\images\windows-icon-light-834.jpg,.\Resources\images\windows-icon-light-834.jpg,17,0,32
 File=%AppDir%\Resources\images\windows-icon-light-940.jpg,.\Resources\images\windows-icon-light-940.jpg,17,0,32
+File=%AppDir%\Resources\images\pennyRed-help-750.jpg,.\Resources\images\pennyRed-help-750.jpg,17,0,32
 Folder=%AppDir%\Resources\other
 File=%AppDir%\Resources\other\Centurion Light SF.ttf,.\Resources\other\Centurion Light SF.ttf,17,7,32
 Folder=%AppDir%\Resources\sounds
@@ -293,6 +293,7 @@ File=%AppDir%\Penny Red.exe,.\Penny Red.exe,17,2,32
 File=%AppDir%\CCRSlider.ocx,.\CCRSlider.ocx,17,2,32
 File=%AppDir%\GPL LICENCE.TXT,.\GPL LICENCE.TXT,17,0,32
 File=%AppDir%\buglist.txt,.\buglist.txt,17,0,32
+File=%AppDir%\unhide.bat,.\unhide.bat,17,0,32
 
 [SHORTCUTS]
 
