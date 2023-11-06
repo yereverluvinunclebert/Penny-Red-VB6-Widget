@@ -51,11 +51,17 @@
 ' manual update to github for the 17mb setup.exe - done
 ' update things learnt in Cintanotes - done
 
-' test setup2go - done 
+' update the help - done
+' update the CHM - done
+' build new setup2go - done
+' synch to github - done
+
+' test setup.exe operation on Windows 10 - done
+' test setup.exe operation on Windows 7
 
 ' test on win 7 32bit - study 2nd PC - wip
 
-' inputbox - FCW
+
 
 ' -oOo-
 
