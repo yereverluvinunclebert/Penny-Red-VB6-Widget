@@ -2011,7 +2011,7 @@ End Sub
 
 Private Sub chkGaugeFunctions_Click()
     btnSave.Enabled = True ' enable the save button
-    stampWidget.Rotating = chkGaugeFunctions.Value
+
 End Sub
 
 Private Sub chkGenStartup_Click()

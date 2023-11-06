@@ -22,7 +22,7 @@ Begin VB.Form frmTimer
       Enabled         =   0   'False
       Interval        =   2500
       Left            =   90
-      Top             =   615
+      Top             =   600
    End
    Begin VB.Timer revealWidgetTimer 
       Enabled         =   0   'False
@@ -91,11 +91,14 @@ Option Explicit
 Private Sub revealWidgetTimer_Timer()
     On Error GoTo revealWidgetTimer_Timer_Error
 
+    frmTester.txtSettingsTimer.Text = "true"
+    
     revealWidgetTimerCount = revealWidgetTimerCount + 1
     If revealWidgetTimerCount >= (minutesToHide * 12) Then
         revealWidgetTimerCount = 0
         stampWidget.Hidden = False
         revealWidgetTimer.Enabled = False
+        frmTester.txtSettingsTimer.Text = "false"
         PrWidgetHidden = "0"
         sPutINISetting "Software\PennyRed", "widgetHidden", PrWidgetHidden, PrSettingsFile
     End If
@@ -126,6 +129,9 @@ Private Sub rotationTimer_Timer()
 
     screenHeightPixels = GetDeviceCaps(menuForm.hdc, VERTRES) ' we use the name of any form currently loaded
     screenWidthPixels = GetDeviceCaps(menuForm.hdc, HORZRES)
+    
+    frmTester.txtRotationTimer.Text = "true"
+    frmTester.txtRotationTimerInterval.Text = rotationTimer.Interval
     
     ' will be used to check for orientation changes
     If (oldScreenHeightPixels <> screenHeightPixels) Or (oldScreenWidthPixels <> screenWidthPixels) Then
@@ -164,6 +170,9 @@ Private Sub settingsTimer_Timer()
     On Error GoTo settingsTimer_Timer_Error
 
     PrUnhide = fGetINISetting("Software\PennyRed", "unhide", PrSettingsFile)
+
+    frmTester.txtSettingsTimer.Text = "true"
+    frmTester.txtSettingsTimerInterval.Text = settingsTimer.Interval
 
     If PrUnhide = "true" Then
         stampWidget.Hidden = False

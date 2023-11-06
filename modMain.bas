@@ -238,6 +238,8 @@ Public Sub mainRoutine(ByVal restart As Boolean)
 
     extractCommand = Command$ ' capture any parameter passed
     
+    'frmTester.show
+    
     ' initialise global vars
     Call initialiseGlobalVars
     
@@ -481,7 +483,7 @@ Public Sub adjustMainControls()
     ' validate the inputs of any data from the input settings file
     Call validateInputs
     
-    stampWidget.RotationSpeed = Val(PrStampSelection)
+    
     stampWidget.Zoom = Val(PrGaugeSize) / 100
     stampWidget.ZoomDirection = PrScrollWheelDirection
     
@@ -491,11 +493,11 @@ Public Sub adjustMainControls()
     End If
     
     If PrGaugeFunctions = "1" Then
-        stampWidget.Rotating = True
+        
         menuForm.mnuSwitchOff.Checked = False
         menuForm.mnuTurnFunctionsOn.Checked = True
     Else
-        stampWidget.Rotating = False
+        
         menuForm.mnuSwitchOff.Checked = True
         menuForm.mnuTurnFunctionsOn.Checked = False
     End If
