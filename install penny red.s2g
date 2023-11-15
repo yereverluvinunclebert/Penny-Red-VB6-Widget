@@ -127,9 +127,9 @@ File=%AppDir%\help\empire exhibition.png,.\help\empire exhibition.png,17,0,128
 File=%AppDir%\help\help.chm,.\help\help.chm,17,0,128
 File=%AppDir%\help\hong kong 10 dollars.png,.\help\hong kong 10 dollars.png,17,0,128
 File=%AppDir%\help\hong kong 30 cents.png,.\help\hong kong 30 cents.png,17,0,128
-File=%AppDir%\help\Index.hhk,.\help\Index.hhk,17,0,32
+File=%AppDir%\help\Index.hhk,.\help\Index.hhk,17,0,128
 File=%AppDir%\help\Licence.jpg,.\help\Licence.jpg,17,0,128
-File=%AppDir%\help\menu.png,.\help\menu.png,17,0,32
+File=%AppDir%\help\menu.png,.\help\menu.png,17,0,128
 File=%AppDir%\help\menu01.png,.\help\menu01.png,17,0,128
 File=%AppDir%\help\menu02.png,.\help\menu02.png,17,0,128
 File=%AppDir%\help\panzer-earth-gauge-help-750.jpg,.\help\panzer-earth-gauge-help-750.jpg,17,0,128
@@ -147,7 +147,7 @@ File=%AppDir%\help\prefs-position.png,.\help\prefs-position.png,17,0,128
 File=%AppDir%\help\prefs-sounds.png,.\help\prefs-sounds.png,17,0,128
 File=%AppDir%\help\prefs-window.png,.\help\prefs-window.png,17,0,128
 File=%AppDir%\help\sauron.png,.\help\sauron.png,17,0,128
-File=%AppDir%\help\TOC.hhc,.\help\TOC.hhc,17,0,32
+File=%AppDir%\help\TOC.hhc,.\help\TOC.hhc,17,0,128
 File=%AppDir%\help\two penny blue.png,.\help\two penny blue.png,17,0,128
 Folder=%AppDir%\Resources
 Folder=%AppDir%\Resources\images
@@ -284,7 +284,7 @@ Folder=%AppDir%\Resources\sounds
 File=%AppDir%\Resources\sounds\lock.wav,.\Resources\sounds\lock.wav,17,0,128
 File=%AppDir%\Resources\sounds\mistake.wav,.\Resources\sounds\mistake.wav,17,0,128
 File=%AppDir%\Resources\sounds\till.wav,.\Resources\sounds\till.wav,17,0,128
-File=%AppDir%\Resources\sounds\ting.wav,.\Resources\sounds\ting.wav,17,0,32
+File=%AppDir%\Resources\sounds\ting.wav,.\Resources\sounds\ting.wav,17,0,128
 File=%AppDir%\Resources\sounds\winding.wav,.\Resources\sounds\winding.wav,17,0,128
 Folder=%AppDir%\Resources\txt
 File=%AppDir%\Resources\txt\about.txt,.\Resources\txt\about.txt,17,0,128
@@ -294,6 +294,7 @@ File=%AppDir%\CCRSlider.ocx,.\CCRSlider.ocx,17,2,128
 File=%AppDir%\GPL LICENCE.TXT,.\GPL LICENCE.TXT,17,0,128
 File=%AppDir%\buglist.txt,.\buglist.txt,17,0,128
 File=%AppDir%\unhide.bat,.\unhide.bat,17,0,128
+File=%AppDir%\prefs.bat,.\prefs.bat,17,0,128
 
 [SHORTCUTS]
 
