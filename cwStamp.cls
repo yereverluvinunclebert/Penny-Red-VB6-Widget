@@ -347,6 +347,8 @@ Private Sub W_MouseWheel(ByVal MouseKeys As Long, ByVal Rotation As Long, ByVal 
         End If
         PrGaugeSize = LTrim$(Str$(stampWidget.Zoom * 100)) ' store the value dynamically
         sPutINISetting "Software\PennyRed", "gaugeSize", PrGaugeSize, PrSettingsFile
+        
+        If pennyRedPrefs.IsVisible = True Then pennyRedPrefs.sliGaugeSize = Val(PrGaugeSize)
     End Select
 
    On Error GoTo 0
