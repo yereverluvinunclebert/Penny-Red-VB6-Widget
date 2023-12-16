@@ -331,6 +331,8 @@ Public PrIgnoreMouse  As String
 Public PrFirstTimeRun  As String
 
 ' General storage variables declared
+Public gblTrinketsDir      As String
+Public gblTrinketsFile      As String
 Public PrSettingsDir As String
 Public PrSettingsFile As String
 Public PrMaximiseFormX As String
