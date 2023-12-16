@@ -460,6 +460,43 @@ Private Sub addImagesToImageList()
     Cairo.ImageList.AddImage "empireExhibition", App.Path & "\Resources\images\Empire Exhibition.png"
 
     Cairo.ImageList.AddImage "frmIcon", App.Path & "\Resources\images\penny red.png"
+   
+   ' prefs icons
+
+    Cairo.ImageList.AddImage "about-icon-dark", App.Path & "\Resources\images\about-icon-dark-1010.jpg"
+    Cairo.ImageList.AddImage "about-icon-light", App.Path & "\Resources\images\about-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "config-icon-dark", App.Path & "\Resources\images\config-icon-dark-1010.jpg"
+    Cairo.ImageList.AddImage "config-icon-light", App.Path & "\Resources\images\config-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "development-icon-light", App.Path & "\Resources\images\development-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "development-icon-dark", App.Path & "\Resources\images\development-icon-dark-1010.jpg"
+    Cairo.ImageList.AddImage "general-icon-dark", App.Path & "\Resources\images\general-icon-dark-1010.jpg"
+    Cairo.ImageList.AddImage "general-icon-light", App.Path & "\Resources\images\general-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "sounds-icon-light", App.Path & "\Resources\images\sounds-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "sounds-icon-dark", App.Path & "\Resources\images\sounds-icon-dark-1010.jpg"
+    Cairo.ImageList.AddImage "windows-icon-light", App.Path & "\Resources\images\windows-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "windows-icon-dark", App.Path & "\Resources\images\windows-icon-dark-1010.jpg"
+    Cairo.ImageList.AddImage "font-icon-dark", App.Path & "\Resources\images\font-icon-dark-1010.jpg"
+    Cairo.ImageList.AddImage "font-icon-light", App.Path & "\Resources\images\font-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "position-icon-light", App.Path & "\Resources\images\position-icon-light-1010.jpg"
+    Cairo.ImageList.AddImage "position-icon-dark", App.Path & "\Resources\images\position-icon-dark-1010.jpg"
+
+    Cairo.ImageList.AddImage "general-icon-dark-clicked", App.Path & "\Resources\images\general-icon-dark-600-clicked.jpg"
+    Cairo.ImageList.AddImage "config-icon-dark-clicked", App.Path & "\Resources\images\config-icon-dark-600-clicked.jpg"
+    Cairo.ImageList.AddImage "font-icon-dark-clicked", App.Path & "\Resources\images\font-icon-dark-600-clicked.jpg"
+    Cairo.ImageList.AddImage "sounds-icon-dark-clicked", App.Path & "\Resources\images\sounds-icon-dark-600-clicked.jpg"
+    Cairo.ImageList.AddImage "position-icon-dark-clicked", App.Path & "\Resources\images\position-icon-dark-600-clicked.jpg"
+    Cairo.ImageList.AddImage "development-icon-dark-clicked", App.Path & "\Resources\images\development-icon-dark-600-clicked.jpg"
+    Cairo.ImageList.AddImage "windows-icon-dark-clicked", App.Path & "\Resources\images\windows-icon-dark-600-clicked.jpg"
+    Cairo.ImageList.AddImage "about-icon-dark-clicked", App.Path & "\Resources\images\about-icon-dark-600-clicked.jpg"
+
+    Cairo.ImageList.AddImage "general-icon-light-clicked", App.Path & "\Resources\images\general-icon-light-600-clicked.jpg"
+    Cairo.ImageList.AddImage "config-icon-light-clicked", App.Path & "\Resources\images\config-icon-light-600-clicked.jpg"
+    Cairo.ImageList.AddImage "font-icon-light-clicked", App.Path & "\Resources\images\font-icon-light-600-clicked.jpg"
+    Cairo.ImageList.AddImage "sounds-icon-light-clicked", App.Path & "\Resources\images\sounds-icon-light-600-clicked.jpg"
+    Cairo.ImageList.AddImage "position-icon-light-clicked", App.Path & "\Resources\images\position-icon-light-600-clicked.jpg"
+    Cairo.ImageList.AddImage "development-icon-light-clicked", App.Path & "\Resources\images\development-icon-light-600-clicked.jpg"
+    Cairo.ImageList.AddImage "windows-icon-light-clicked", App.Path & "\Resources\images\windows-icon-light-600-clicked.jpg"
+    Cairo.ImageList.AddImage "about-icon-light-clicked", App.Path & "\Resources\images\about-icon-light-600-clicked.jpg"
 
    On Error GoTo 0
    Exit Sub
