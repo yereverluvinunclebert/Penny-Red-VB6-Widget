@@ -137,14 +137,14 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
  
  * Uses the latest version of the RC5 Cairo framework from Olaf Schmidt.
  
- During development the RC6 components need to be registered. These scripts are 
+ During development the RC5 components need to be registered. These scripts are 
  used to register. Run each by double-clicking on them.
  
 	RegisterRC5inPlace.vbs
 	RegisterVBWidgetsInPlace.vbs
  
  During runtime on the users system, the RC5 components are dynamically 
- referenced using modRC6regfree.bas which is compiled into the binary.	
+ referenced using modRC5regfree.bas which is compiled into the binary.	
  
  
  Requires a Penny Red folder in C:\Users\<user>\AppData\Roaming\ 
@@ -201,7 +201,7 @@ Why VB6? Well, with a 64 bit, modern-language improvement upgrade on the way in 
 	VisualBasic Runtime Objects and Procedures  
 	VisualBasic Objects and Procedures  
 	OLE Automation  
-	vbRichClient6  
+	vbRichClient5  
  
  
  LICENCE AGREEMENTS:
